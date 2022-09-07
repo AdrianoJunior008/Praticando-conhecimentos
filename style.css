@@ -1,0 +1,53 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    background-image: url("https://images.tcdn.com.br/img/img_prod/862860/xbox_one_x_4k_hdr_1tb_409_1_eca2e8b3d46acfdf549b0a8d97b35268.png"),
+      url("https://files.passeidireto.com/d83cc48e-ad7a-40c5-be7c-7bc00aa01c5b/d83cc48e-ad7a-40c5-be7c-7bc00aa01c5b.png");
+    background-color: black;
+    background-size: 60vh, 40vh;
+    background-position: 35% 65%, center;
+    background-attachment: scroll, scroll;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  body {}
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+  }
+  
+  label {
+    color: white;
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  
+  h2 {
+    background-color: #ffffff90;
+    font-size: 30px;
+    border-radius: 0%;
+    box-shadow: 3px 3px 1px 0px;
+  }
+  
